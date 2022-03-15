@@ -1,0 +1,7 @@
+server:
+  port: 8000
+  servlet:
+    context-path: /
+
+sentry:
+  dsn: https://5b93d5a368e843c19f7f9d6a4f5afd94@o1166909.ingest.sentry.io/6257534

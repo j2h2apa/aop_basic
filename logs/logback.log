@@ -1,0 +1,2 @@
+[2022-03-14 17:00:17:129190][http-nio-8000-exec-5] WARN  c.cos.aopdemo.config.BindingAdvice - com.cos.aopdemo.web.UserController.save() => 필드: username, 메세지: 유저네임을 입력하세요.
+[2022-03-14 17:01:39:210919][http-nio-8000-exec-8] WARN  c.cos.aopdemo.config.BindingAdvice - com.cos.aopdemo.web.UserController.save() => 필드: username, 메세지: 유저네임을 입력하세요.
